@@ -54,7 +54,7 @@ numpy
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Ghorbel37/hand-gesture-control-suite.git
+git clone https://github.com/sagarmarwal/Maestro.git
 cd hand-gesture-control-suite
 ```
 
